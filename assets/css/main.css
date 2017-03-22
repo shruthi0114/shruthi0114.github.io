@@ -176,6 +176,12 @@ a:after {
 	color: white;
 }
 
+/* move */
+#move{
+	
+  left:280px;
+}
+
 /* Intnro Wrap */
 
 #intro {
